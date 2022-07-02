@@ -1,8 +1,9 @@
 # AWS-Reinforcement-Learning-Model
 Custom RL Model for AWS deepracer student League
--Track
+
+- Track
 Ross Raceway
--Algorithm
+- Algorithm
 PPO
--Model description
+- Model description
 Follow the centerline - Custom
